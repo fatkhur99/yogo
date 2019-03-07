@@ -1,0 +1,15 @@
+{
+    "name": "tiennguyen/yogo",
+    "description": "Yogo App Bot",
+    "type": "project",
+    "require": {
+        "guzzle/http": "^3.9",
+        "nategood/commando": "^0.3.0"
+    },
+    "authors": [
+        {
+            "name": "TienNguyen",
+            "email": "cafesang161@gmail.com"
+        }
+    ]
+}
